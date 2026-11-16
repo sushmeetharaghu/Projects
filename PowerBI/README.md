@@ -9,7 +9,7 @@ An interactive Power BI dashboard that explores ShopNest's e-commerce sales, del
 
 ## Key Performance Indicators
 
-<img width="975" height="76" alt="image" src="https://github.com/user-attachments/assets/eeb8e942-fa92-4d34-83b3-388186515171" />
+<img width="600" height="76" alt="image" src="https://github.com/user-attachments/assets/eeb8e942-fa92-4d34-83b3-388186515171" />
 
 
 | KPI | Value |
