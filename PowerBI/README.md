@@ -38,13 +38,13 @@ Compares the number of delayed orders across product categories. Bed, Bath & Tab
 ### 3. Monthly On-Time vs. Delayed Orders
 Compares monthly delivery performance and includes a drill-through experience for more detailed order analysis.
 
-<img width="1028" height="496" alt="image" src="https://github.com/user-attachments/assets/45819696-1846-42e8-a70a-323956d1e0b8" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/45819696-1846-42e8-a70a-323956d1e0b8" />
 
 
 ### 4. Payment Method Analysis
 Shows the distribution of customer payment methods. Credit cards account for the largest share (73.92%), followed by Boleto (19.04%).
 
-<img width="890" height="615" alt="image" src="https://github.com/user-attachments/assets/ee81d54a-f478-4c95-9069-9291e236fad5" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ee81d54a-f478-4c95-9069-9291e236fad5" />
 
 
 ### 5. Product Category Ratings
@@ -52,30 +52,30 @@ Highlights the ten highest-rated and ten lowest-rated product categories based o
 
 **Top 10 rated categories**
 
-<img width="750" height="520" alt="image" src="https://github.com/user-attachments/assets/af9408c7-cbf8-45ba-892a-9bfe71012c8d" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/af9408c7-cbf8-45ba-892a-9bfe71012c8d" />
 
 
 **Bottom 10 rated categories**
 
-<img width="756" height="500" alt="image" src="https://github.com/user-attachments/assets/0e43db24-b2bd-4e89-8945-572b7bde6420" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/0e43db24-b2bd-4e89-8945-572b7bde6420" />
 
 
 ### 6. State-wise Sales Performance
 Compares sales across customer states. São Paulo is the highest-selling state, followed by Rio de Janeiro and Minas Gerais.
 
-<img width="975" height="322" alt="image" src="https://github.com/user-attachments/assets/ed75ed31-7226-4909-9597-5dc55d487904" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ed75ed31-7226-4909-9597-5dc55d487904" />
 
 
 ### 7. Quarterly Sales Trends
 Explores quarterly sales patterns across the available years to understand changes in sales performance over time.
 
-<img width="843" height="470" alt="image" src="https://github.com/user-attachments/assets/6e7819ad-1c7a-4b51-98b7-dff4740d9258" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/6e7819ad-1c7a-4b51-98b7-dff4740d9258" />
 
 
 ### 8. Revenue Trends
 Tracks revenue over time and highlights key monthly revenue milestones. Total revenue across the dataset is 16.01M.
 
-<img width="975" height="348" alt="image" src="https://github.com/user-attachments/assets/c7379d82-946d-4137-b920-5779a93cce01" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/c7379d82-946d-4137-b920-5779a93cce01" />
 
 
 ## Skills Demonstrated
