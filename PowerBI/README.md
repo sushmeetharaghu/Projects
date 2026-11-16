@@ -4,12 +4,12 @@ An interactive Power BI dashboard that explores ShopNest's e-commerce sales, del
 
 ## Dashboard Preview
 
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/046779b3-fdf9-4c50-9917-3a2044e46483" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/046779b3-fdf9-4c50-9917-3a2044e46483" />
 
 
 ## Key Performance Indicators
 
-<img width="600" height="76" alt="image" src="https://github.com/user-attachments/assets/eeb8e942-fa92-4d34-83b3-388186515171" />
+<img width="700" height="76" alt="image" src="https://github.com/user-attachments/assets/eeb8e942-fa92-4d34-83b3-388186515171" />
 
 
 | KPI | Value |
@@ -26,13 +26,13 @@ An interactive Power BI dashboard that explores ShopNest's e-commerce sales, del
 ### 1. Top 10 Product Categories by Sales
 Identifies the product categories generating the highest sales. Health & Beauty leads, followed by Watches & Gifts and Bed, Bath & Table.
 
-<img width="915" height="629" alt="image" src="https://github.com/user-attachments/assets/59e338da-ab53-4345-84b3-5d3b2a9d2f09" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/59e338da-ab53-4345-84b3-5d3b2a9d2f09" />
 
 
 ### 2. Delayed Orders by Product Category
 Compares the number of delayed orders across product categories. Bed, Bath & Table records the highest number of delayed orders in the report.
 
-<img width="901" height="628" alt="image" src="https://github.com/user-attachments/assets/ba35eae3-41d9-4115-ab7e-eb54d2d2a1f6" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ba35eae3-41d9-4115-ab7e-eb54d2d2a1f6" />
 
 
 ### 3. Monthly On-Time vs. Delayed Orders
